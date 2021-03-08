@@ -1,7 +1,0 @@
-{
-  "database_uri": "mongodb+srv://akash123:akash123@dhwani.pf2jt.mongodb.net/dhwani?retryWrites=true&w=majority",
-  "jwtSecret": "mernsecret",
-  "CLOUDINARY_CLOUD_NAME": "onemgapp",
-  "CLOUDINARY_API_KEY": "176877173168413",
-  "CLOUDINARY_API_SECRET":" Oquh-uf0HGC1R2m3npuTbPpzFwE"
-}
